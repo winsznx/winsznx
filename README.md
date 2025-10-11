@@ -122,6 +122,6 @@ I'm always open to collaborating on interesting Web3 projects or discussing bloc
   
   ### 💭 "Building the future, one block at a time"
   
-  ⭐️ From [winsznx](https://github.com/winsznx)
+  From [winsznx](https://github.com/winsznx)
   
 </div>
