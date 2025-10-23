@@ -44,7 +44,7 @@ I’m a **Web3 developer and blockchain engineer** focused on building **scalabl
 
 ## 🌐 Featured Project: **ChainCircle**
 
-### 🔗 [ChainCircle](https://
+### 🔗 [ChainCircle](https://chaincircle.org
 
 **Empowering communities through decentralized savings and finance.**
 
