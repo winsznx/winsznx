@@ -1,5 +1,5 @@
 ````markdown
-![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=160&section=header&text=Winszn&fontColor=ffffff&fontAlignY=35&desc=Web3+Developer+•+Smart+Contract+Engineer&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Winszn&fontColor=fff&fontAlignY=35&desc=Web3+Developer+•+Smart+Contract+Engineer&descAlignY=55&descAlign=50)
 
 <div align="center">
 
@@ -13,10 +13,10 @@
 
 I’m a **Web3 and blockchain engineer** passionate about building **scalable, privacy-first decentralized systems** that drive **financial inclusion** and **digital sovereignty**.
 
-My work focuses on:
-- Privacy-preserving on-chain identity & KYC (ZKPs)  
-- Decentralized finance & social coordination (DeSoFi)  
-- Secure and interoperable protocol design  
+My focus areas:
+- Privacy-preserving identity & KYC (ZKPs)
+- Decentralized social finance (DeSoFi)
+- Interoperable and secure smart contract systems
 
 ---
 
@@ -33,13 +33,13 @@ IPFS | Push Protocol | Git
 
 ## Featured Project — [ChainCircle](https://chaincircle.org)
 
-**ChainCircle** is a decentralized savings and finance protocol enabling communities to **pool, manage, and grow digital assets** through trustless smart contracts — inspired by *ROSCAs* and *Ajos*.
+**ChainCircle** is a decentralized savings and finance protocol that lets communities **pool, manage, and grow digital assets** through trustless smart contracts — inspired by *ROSCAs* and *Ajos*.
 
 **Highlights**
 
-* Automated group savings and payouts
-* Cross-chain compatible architecture
-* Real-time dashboards and community governance
+* Automated savings and payout cycles
+* Multi-chain architecture and governance
+* Real-time analytics and dashboards
 
 **Stack:** Solidity · Hardhat · Next.js · Ethers.js · IPFS
 
@@ -47,11 +47,11 @@ IPFS | Push Protocol | Git
 
 ## Other Projects
 
-| Project                                                         | Description                            | Stack                  |
-| --------------------------------------------------------------- | -------------------------------------- | ---------------------- |
-| [Onchain Resume](https://github.com/winsznx/onchain-resume)     | Decentralized on-chain resume system   | Solidity · IPFS        |
-| [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated yield optimizer              | TypeScript · Ethers.js |
-| [BuilderHub](https://github.com/winsznx/builderhub)             | Network for builders and collaborators | React · Node.js        |
+| Project                                                         | Description                              | Stack                  |
+| --------------------------------------------------------------- | ---------------------------------------- | ---------------------- |
+| [Onchain Resume](https://github.com/winsznx/onchain-resume)     | Decentralized resume identity on IPFS    | Solidity · IPFS        |
+| [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated multi-protocol yield optimizer | TypeScript · Ethers.js |
+| [BuilderHub](https://github.com/winsznx/builderhub)             | Platform for builders and collaborations | React · Node.js        |
 
 ---
 
@@ -59,8 +59,8 @@ IPFS | Push Protocol | Git
 
 * Built ZK-powered dApps on **Scroll zkEVM**
 * Founder & developer of **ChainCircle**
-* Contributor to **open-source DeFi** protocols
-* Advocate for **decentralized financial access**
+* Contributor to **open-source DeFi** ecosystems
+* Advocate for **global decentralized finance**
 
 ---
 
@@ -68,9 +68,35 @@ IPFS | Push Protocol | Git
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=winsznx\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=winsznx\&theme=tokyonight\&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx\&layout=compact\&theme=tokyonight\&hide_border=true)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" 
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=default&hide_border=true" alt="Winszn's GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=winsznx&theme=tokyonight&hide_border=true" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com?user=winsznx&theme=default&hide_border=true" 
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=winsznx&theme=default&hide_border=true" alt="Winszn's GitHub Streak" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx&layout=compact&theme=tokyonight&hide_border=true" 
+    media="(prefers-color-scheme: dark)" />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx&layout=compact&theme=default&hide_border=true" 
+    media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -80,11 +106,9 @@ IPFS | Push Protocol | Git
 
 <div align="center">
 
-[Twitter](https://twitter.com/winsznx) · [LinkedIn](https://linkedin.com/in/timothy-p-790b78) · [Email](mailto:winsznx@gmail.com)
+[Twitter](https://twitter.com/winsznx) · [LinkedIn](https://linkedin.com/in/winsznx) · [Email](mailto:winsznx@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
@@ -96,9 +120,6 @@ IPFS | Push Protocol | Git
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=8A2BE2\&height=100\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)
 
 ```
-
----
-
