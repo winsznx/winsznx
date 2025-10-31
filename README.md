@@ -1,3 +1,4 @@
+```markdown
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Winszn&fontColor=fff&fontAlignY=35&desc=Web3+Developer+•+Smart+Contract+Engineer&descAlignY=55&descAlign=50)
 
 <div align="center">
@@ -20,6 +21,7 @@ My focus areas:
 ---
 
 ## Core Stack
+
 ```text
 Solidity | TypeScript | JavaScript
 Ethereum | Hardhat | Ethers.js | Web3.js
@@ -73,7 +75,7 @@ IPFS | Push Protocol | Git
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" 
     media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=default&hide_border=true" alt="Winszn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Winszn's GitHub Stats" />
 </picture>
 
 <picture>
@@ -119,3 +121,4 @@ IPFS | Push Protocol | Git
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+```
