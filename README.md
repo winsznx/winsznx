@@ -1,119 +1,88 @@
-# 👋 Hey, I'm Winszn
+---
+
+````markdown
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=160&section=header&text=Winszn&fontColor=ffffff&fontAlignY=35&desc=Web3+Developer+•+Smart+Contract+Engineer&descAlignY=55&descAlign=50)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=winsznx\&color=blueviolet\&style=flat-square)
-
-**Web3 Developer • Smart Contract Engineer • Building ChainCircle & the Decentralized Future**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Building+ChainCircle+and+the+DeSoFi+Future;Zero-Knowledge+%7C+Privacy-First+Protocols;Web3+Innovation+Through+Open+Infrastructure)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a **Web3 developer and blockchain engineer** passionate about building **scalable, user-first decentralized systems** that advance financial inclusion and digital sovereignty.
+I’m a **Web3 and blockchain engineer** passionate about building **scalable, privacy-first decentralized systems** that drive **financial inclusion** and **digital sovereignty**.
 
-I focus on designing **secure, interoperable, and efficient on-chain architectures** that empower communities through decentralized finance and social coordination.
-
-**What drives me:**
-
-* 💡 Real-world adoption of **DeFi** and **ZK-powered protocols**
-* 🔐 Building **privacy-first on-chain identity and KYC** systems
-* 🌍 Creating tools for **decentralized social finance (DeSoFi)**
-* 🧠 Exploring **zero-knowledge cryptography** & **protocol design**
+My work focuses on:
+- Privacy-preserving on-chain identity & KYC (ZKPs)  
+- Decentralized finance & social coordination (DeSoFi)  
+- Secure and interoperable protocol design  
 
 ---
 
-## 🧰 Tech Stack
+## Core Stack
 
-### 🧠 Core Skills
-
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square\&logo=solidity\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### ⚙️ Blockchain & Smart Contracts
-
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square\&logo=ethereum\&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square\&logo=hardhat\&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-2534A3?style=flat-square\&logo=ethers\&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square\&logo=web3.js\&logoColor=white)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=flat-square\&logo=ipfs\&logoColor=white)
-
-### 🧩 Frameworks & Tools
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+```text
+Solidity | TypeScript | JavaScript
+Ethereum | Hardhat | Ethers.js | Web3.js
+Next.js | React | Node.js | TailwindCSS
+IPFS | Push Protocol | Git
+````
 
 ---
 
-## 🌐 Featured Project — **[ChainCircle](https://chaincircle.org)**
+## Featured Project — [ChainCircle](https://chaincircle.org)
 
-> **Empowering communities through decentralized savings & social finance**
+**ChainCircle** is a decentralized savings and finance protocol enabling communities to **pool, manage, and grow digital assets** through trustless smart contracts — inspired by *ROSCAs* and *Ajos*.
 
-ChainCircle is a **Web3-native savings and finance protocol** that enables users and communities to **pool, manage, and grow digital assets** through smart contracts — inspired by *ROSCAs* and *Ajos*.
+**Highlights**
 
-### 🔹 Core Features
+* Automated group savings and payouts
+* Cross-chain compatible architecture
+* Real-time dashboards and community governance
 
-* 💰 **Trustless Group Savings:** Automated cycles, payouts & transparency
-* 🌍 **Cross-Chain Ready:** Built for interoperability & multi-chain participation
-* 📊 **Real-Time Dashboard:** Group analytics, tracking & governance
-
-**Tech Stack:** `Solidity · Hardhat · Next.js · Ethers.js · IPFS · Push Protocol`
+**Stack:** Solidity · Hardhat · Next.js · Ethers.js · IPFS
 
 ---
 
-## 💡 Other Projects
+## Other Projects
 
-### 🧱 [Onchain Resume](https://github.com/winsznx/onchain-resume)
-
-Decentralized resume  system.
-**Stack:** Solidity · JavaScript · IPFS
-
-### 🧰 [Trade Compounder](https://github.com/winsznx/trade-compounder)
-
-Automated yield optimizer for cross-protocol compounding.
-**Stack:** TypeScript · Smart Contracts · Ethers.js
-
-### 👥 [BuilderHub](https://github.com/winsznx/builderhub)
-
-Community platform connecting builders, projects, and collaborators.
-**Stack:** React · Node.js · Web3.js
+| Project                                                         | Description                            | Stack                  |
+| --------------------------------------------------------------- | -------------------------------------- | ---------------------- |
+| [Onchain Resume](https://github.com/winsznx/onchain-resume)     | Decentralized on-chain resume system   | Solidity · IPFS        |
+| [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated yield optimizer              | TypeScript · Ethers.js |
+| [BuilderHub](https://github.com/winsznx/builderhub)             | Network for builders and collaborators | React · Node.js        |
 
 ---
 
-## 🏆 Highlights & Impact
+## Highlights
 
-* 🧠 Built **ZK-powered dApps** on Scroll zkEVM
-* 🚀 Founder & developer of **ChainCircle**, a DeSoFi protocol
-* 💼 Contributor to open-source **Web3 & DeFi** ecosystems
-* 🌍 Advocate for **global financial inclusion** via decentralized tools
+* Built ZK-powered dApps on **Scroll zkEVM**
+* Founder & developer of **ChainCircle**
+* Contributor to **open-source DeFi** protocols
+* Advocate for **decentralized financial access**
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-![Winszn’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=winsznx\&show_icons=true\&theme=tokyonight\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx\&layout=compact\&theme=tokyonight\&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winsznx\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=winsznx\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true\&include_all_commits=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=winsznx\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](https://twitter.com/winsznx)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/winsznx)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:winsznx@gmail.com)
+[Twitter](https://twitter.com/winsznx) · [LinkedIn](https://linkedin.com/in/timothy-p-790b78) · [Email](mailto:winsznx@gmail.com)
 
 </div>
 
@@ -121,10 +90,17 @@ Community platform connecting builders, projects, and collaborators.
 
 <div align="center">
 
-### 💭 *“Building the future, one block at a time.”*
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-From [**@winsznx**](https://github.com/winsznx)
+### “Building the decentralized future — one block at a time.”
+
+**— [@winsznx](https://github.com/winsznx)**
 
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=8A2BE2\&height=100\&section=footer)
+
+```
+
 ---
+
