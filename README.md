@@ -1,4 +1,3 @@
-````markdown
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Winszn&fontColor=fff&fontAlignY=35&desc=Web3+Developer+•+Smart+Contract+Engineer&descAlignY=55&descAlign=50)
 
 <div align="center">
@@ -11,23 +10,22 @@
 
 ## About Me
 
-I’m a **Web3 and blockchain engineer** passionate about building **scalable, privacy-first decentralized systems** that drive **financial inclusion** and **digital sovereignty**.
+I'm a **Web3 and blockchain engineer** passionate about building **scalable, privacy-first decentralized systems** that drive **financial inclusion** and **digital sovereignty**.
 
 My focus areas:
-- Privacy-preserving identity & KYC (ZKPs)
+- Privacy-preserving identity and KYC (ZKPs)
 - Decentralized social finance (DeSoFi)
 - Interoperable and secure smart contract systems
 
 ---
 
 ## Core Stack
-
 ```text
 Solidity | TypeScript | JavaScript
 Ethereum | Hardhat | Ethers.js | Web3.js
 Next.js | React | Node.js | TailwindCSS
 IPFS | Push Protocol | Git
-````
+```
 
 ---
 
@@ -47,18 +45,18 @@ IPFS | Push Protocol | Git
 
 ## Other Projects
 
-| Project                                                         | Description                              | Stack                  |
-| --------------------------------------------------------------- | ---------------------------------------- | ---------------------- |
-| [Onchain Resume](https://github.com/winsznx/onchain-resume)     | Decentralized resume identity on IPFS    | Solidity · IPFS        |
+| Project | Description | Stack |
+| ------- | ----------- | ----- |
+| [Onchain Resume](https://github.com/winsznx/onchain-resume) | Decentralized resume identity on IPFS | Solidity · IPFS |
 | [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated multi-protocol yield optimizer | TypeScript · Ethers.js |
-| [BuilderHub](https://github.com/winsznx/builderhub)             | Platform for builders and collaborations | React · Node.js        |
+| [BuilderHub](https://github.com/winsznx/builderhub) | Platform for builders and collaborations | React · Node.js |
 
 ---
 
 ## Highlights
 
 * Built ZK-powered dApps on **Scroll zkEVM**
-* Founder & developer of **ChainCircle**
+* Founder and developer of **ChainCircle**
 * Contributor to **open-source DeFi** ecosystems
 * Advocate for **global decentralized finance**
 
@@ -114,12 +112,10 @@ IPFS | Push Protocol | Git
 
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-### “Building the decentralized future — one block at a time.”
+### "Building the decentralized future — one block at a time."
 
 **— [@winsznx](https://github.com/winsznx)**
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=100\&section=footer)
-
-```
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
