@@ -47,6 +47,7 @@ IPFS | Push Protocol | Git
 
 | Project | Description | Stack |
 | ------- | ----------- | ----- |
+| [Attest](https://github.com/winsznx/attesta) | Multi-Chain Legal Agreement Platform | ICP · DAG |
 | [Onchain Resume](https://github.com/winsznx/onchain-resume) | Decentralized resume identity on IPFS | Solidity · IPFS |
 | [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated multi-protocol yield optimizer | TypeScript · Ethers.js |
 | [BuilderHub](https://github.com/winsznx/builderhub) | Platform for builders and collaborations | React · Node.js |
@@ -91,7 +92,7 @@ IPFS | Push Protocol | Git
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/winsznx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winsznx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timothy-popoola-790b781ab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winsznx@gmail.com)
 
 </div>
