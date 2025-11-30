@@ -6,7 +6,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -17,7 +16,6 @@ My focus areas:
 - Decentralized social finance (DeSoFi)
 - Interoperable and secure smart contract systems
 
----
 
 ## Core Stack
 ```text
@@ -27,7 +25,6 @@ Next.js | React | Node.js | TailwindCSS
 IPFS | Push Protocol | Git
 ```
 
----
 
 ## Featured Project — [ChainCircle](https://chaincircle.org)
 
@@ -41,7 +38,6 @@ IPFS | Push Protocol | Git
 
 **Stack:** Solidity · Hardhat · Next.js · Ethers.js · IPFS
 
----
 
 ## Other Projects
 
@@ -52,7 +48,6 @@ IPFS | Push Protocol | Git
 | [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated multi-protocol yield optimizer | TypeScript · Ethers.js |
 | [BuilderHub](https://github.com/winsznx/builderhub) | Platform for builders and collaborations | React · Node.js |
 
----
 
 ## Highlights
 
@@ -61,7 +56,6 @@ IPFS | Push Protocol | Git
 * Contributor to **open-source DeFi** ecosystems
 * Advocate for **global decentralized finance**
 
----
 
 ## GitHub Analytics
 
@@ -75,7 +69,6 @@ IPFS | Push Protocol | Git
 
 </div>
 
----
 
 ## Activity Graph
 
@@ -85,19 +78,17 @@ IPFS | Push Protocol | Git
 
 </div>
 
----
 
 ## Connect
 
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/winsznx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/timothy-popoola-790b781ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winszn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winsznx@gmail.com)
 
 </div>
 
----
 
 <div align="center">
 
