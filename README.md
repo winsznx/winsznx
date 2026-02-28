@@ -1,103 +1,135 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=180&section=header&text=Winszn&fontColor=8A2BE2&fontAlignY=35&desc=Web3+Developer+•+Smart+Contract+Engineer&descAlignY=55&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:1F1F1F&height=180&section=header&text=Winszn&fontColor=8A2BE2&fontAlignY=35&desc=Protocol+Engineer+•+Blockchain+Systems+Builder&descAlignY=55&descAlign=50)
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Building+ChainCircle+and+the+DeSoFi+Future;Zero-Knowledge+%7C+Privacy-First+Protocols;Web3+Innovation+Through+Open+Infrastructure)
+### Building real onchain systems, not demos.
 
 </div>
 
+---
 
-## About Me
+## About
 
-I'm a **Web3 and blockchain engineer** passionate about building **scalable, privacy-first decentralized systems** that drive **financial inclusion** and **digital sovereignty**.
+I'm a **blockchain protocol engineer** focused on building **production-grade onchain infrastructure** across emerging ecosystems.
 
-My focus areas:
-- Privacy-preserving identity and KYC (ZKPs)
-- Decentralized social finance (DeSoFi)
-- Interoperable and secure smart contract systems
+My work centers on:
+- Smart contract systems and covenant design  
+- Treasury and financial primitives  
+- Trust-minimized coordination layers  
+- Developer tooling and protocol architecture  
 
+I’m particularly interested in **UTXO-based systems**, **Bitcoin-adjacent ecosystems**, and **next-generation onchain finance primitives**.
 
-## Core Stack
-```text
-Solidity | TypeScript | JavaScript
-Ethereum | Hardhat | Ethers.js | Web3.js
-Next.js | React | Node.js | TailwindCSS
-IPFS | Push Protocol | Git
-```
+---
 
+## Chains & Ecosystems
 
-## Featured Project — [ChainCircle](https://chaincircle.org)
+I’ve built and researched across multiple stacks, with deeper focus on emerging infra layers.
 
-**ChainCircle** is a decentralized savings and finance protocol that lets communities **pool, manage, and grow digital assets** through trustless smart contracts — inspired by *ROSCAs* and *Ajos*.
+**Primary focus**
+- Bitcoin Cash (CashTokens, covenants, UTXO design)
+- Stacks / Bitcoin L2 ecosystem
+- Ethereum & EVM chains
 
-**Highlights**
+**Explored**
+- zkEVM environments
+- Multi-chain contract architecture
+- Cross-ecosystem tooling patterns
 
-* Automated savings and payout cycles
-* Multi-chain architecture and governance
-* Real-time analytics and dashboards
+---
 
-**Stack:** Solidity · Hardhat · Next.js · Ethers.js · IPFS
+## Notable Work
 
+### FlowGuard
+**Covenant-based treasury infrastructure on Bitcoin Cash**
 
-## Other Projects
+FlowGuard explores how far programmable treasuries can go on UTXO rails — enabling deterministic, onchain-controlled fund management without multisig trust assumptions.
 
-| Project | Description | Stack |
-| ------- | ----------- | ----- |
-| [Attest](https://github.com/winsznx/attesta) | Multi-Chain Legal Agreement Platform | ICP · DAG |
-| [Onchain Resume](https://github.com/winsznx/onchain-resume) | Decentralized resume identity on IPFS | Solidity · IPFS |
-| [Trade Compounder](https://github.com/winsznx/trade-compounder) | Automated multi-protocol yield optimizer | TypeScript · Ethers.js |
-| [BuilderHub](https://github.com/winsznx/builderhub) | Platform for builders and collaborations | React · Node.js |
+Key areas:
+- Covenant-enforced vault logic
+- Streaming and treasury automation primitives
+- Organization-first onchain coordination
+- Developer-facing contract architecture
 
+Positioning: experimental → institutional-grade treasury rails on BCH.
 
-## Highlights
+---
 
-* Built ZK-powered dApps on **Scroll zkEVM**
-* Founder and developer of **ChainCircle**
-* Contributor to **open-source DeFi** ecosystems
-* Advocate for **global decentralized finance**
+### ChainCircle
+Decentralized savings and coordination protocol inspired by ROSCAs, bringing culturally-native finance patterns onchain through smart contract automation.
 
+Focus:
+- Trustless savings cycles
+- Social coordination primitives
+- Multi-chain architecture experiments
 
-## GitHub Analytics
+---
+
+## Selected Projects
+
+| Project | Focus | Stack |
+|--------|------|------|
+| Attest | Onchain agreements and verifiable attestations | Multi-chain research |
+| Onchain Resume | Self-sovereign identity experiments | Solidity · IPFS |
+| Trade Compounder | Automation across DeFi protocols | TypeScript · Ethers |
+| BuilderHub | Builder coordination tooling | React · Node |
+
+---
+
+## Engineering Focus
+
+I care about:
+- Deterministic onchain systems
+- Minimal trust assumptions
+- Clean protocol design
+- Composable primitives over apps
+- Shipping real implementations, not whitepapers
+
+---
+
+## Current Direction
+
+Lately I’ve been focused on:
+- UTXO programmability and covenant design
+- Treasury infrastructure and DAO tooling
+- Bitcoin-adjacent ecosystems
+- Protocol architecture and audits
+
+---
+
+## Open Source
+
+I actively ship experiments, research prototypes, and infrastructure components in public.
+
+Most repos reflect:
+- Iterative protocol research
+- Hackathon-grade rapid execution
+- Systems-first thinking
+
+---
+
+## GitHub
 
 <div align="center">
 
 ![Winszn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=winsznx&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winsznx&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
+---
 
-## Activity Graph
+## Contact
+
+- Twitter/X: https://twitter.com/winsznx  
+- GitHub: https://github.com/winsznx  
+- Email: winsznx@gmail.com  
+
+---
 
 <div align="center">
 
-![Winszn's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=winsznx&theme=tokyo-night&hide_border=true&area=true)
+**Building serious onchain infrastructure.**
 
 </div>
 
-
-## Connect
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/winsznx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winszn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:winsznx@gmail.com)
-
-</div>
-
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-### "Building the decentralized future — one block at a time."
-
-**— [@winsznx](https://github.com/winsznx)**
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:1F1F1F&height=120&section=footer)
