@@ -1,4 +1,4 @@
-# Winszn — AI Agent Infrastructure Builder
+# Tim — AI Agent Infrastructure Builder (Agentic Finance & Commerce)
 
 Building production payment and execution infrastructure for autonomous agents across blockchains.
 
