@@ -1,135 +1,115 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:1F1F1F&height=180&section=header&text=Winszn&fontColor=8A2BE2&fontAlignY=35&desc=Protocol+Engineer+•+Blockchain+Systems+Builder&descAlignY=55&descAlign=50)
+# Winszn — AI Agent Infrastructure Builder
 
-<div align="center">
+Building production payment and execution infrastructure for autonomous agents across blockchains.
 
-### Building real onchain systems, not demos.
+## Current Focus
 
-</div>
+**Agentic Finance Infrastructure**
+- x402 payment protocols (HTTP 402 Payment Required)
+- Autonomous agent execution and settlement
+- Cross-chain payment routing and discovery
+- Model Context Protocol (MCP) integration
+- Verifiable execution and reputation systems
 
----
+**Core Projects**
 
-## About
+**RouteDock** — Unified payment execution for autonomous agents on Stellar
+- Abstraction layer over three Stellar payment protocols (x402, MPP charge, MPP session)
+- Published npm package with live testnet agents running against two production providers
+- Soroban smart contract vaults with daily spend policies
+- Session key escrow and off-chain voucher verification
 
-I'm a **blockchain protocol engineer** focused on building **production-grade onchain infrastructure** across emerging ecosystems.
+**RelayCore** — Agentic finance platform on Cronos EVM
+- x402 middleware + Facilitator settlement (EIP-3009 authorization)
+- MCP server exposing 63 agent tools (payments, agents, services, trading, RWA)
+- Real-time payment indexing and reputation scoring
+- LangGraph + Claude RAG for agent decision-making
+- CLI toolkit for agent scaffolding and deployment
+- Dashboard with Realtime session tracking
 
-My work centers on:
-- Smart contract systems and covenant design  
-- Treasury and financial primitives  
-- Trust-minimized coordination layers  
-- Developer tooling and protocol architecture  
+**Remlo** — Multi-chain payroll and escrow for borderless compensation
+- Tempo moderato + Solana payroll primitives
+- Three-party LLM-judged escrow with pluggable validators
+- ERC-8004 + Solana Attestation Service reputation credentials
+- Streaming vesting and yield routing
 
-I’m particularly interested in **UTXO-based systems**, **Bitcoin-adjacent ecosystems**, and **next-generation onchain finance primitives**.
+**BlindMarkets** — Privacy-preserving Bitcoin intent execution
+- Privacy envelope (ECDH + AES-GCM encryption)
+- Coordinator with auction finalization
+- Starknet settlement and observer reconciliation
+- Next.js + Rust monorepo (gateway, coordinator, observer, solver)
 
----
+## Technical Stack
 
-## Chains & Ecosystems
+**Agent Infrastructure**
+- Model Context Protocol (MCP) servers
+- LangGraph + Claude for autonomous decision-making
+- Wallet integration and session management
+- GraphQL for agent discovery and reputation queries
 
-I’ve built and researched across multiple stacks, with deeper focus on emerging infra layers.
+**Payment Protocols**
+- x402 (HTTP 402 Payment Required)
+- EIP-3009 (Ethereum permit-based authorization)
+- MPP (Stellar Multi-Path Payments)
+- Soroban smart contract sessions
 
-**Primary focus**
-- Bitcoin Cash (CashTokens, covenants, UTXO design)
-- Stacks / Bitcoin L2 ecosystem
-- Ethereum & EVM chains
+**Blockchain Networks**
+- Stellar (Soroban, SAC, MPP charge/session)
+- Cronos EVM (x402 Facilitator, smart contracts)
+- Solana (Anchor, SAS attestations)
+- Starknet (Cairo contracts, privacy)
+- Base / Ethereum EVM
 
-**Explored**
-- zkEVM environments
-- Multi-chain contract architecture
-- Cross-ecosystem tooling patterns
+**Monorepo Patterns**
+- pnpm workspaces with SDK publishing
+- Full-stack TypeScript (frontend, agents, contracts)
+- Hardhat + Foundry for smart contracts
+- Next.js + shadcn/ui for dashboards
 
----
+## What Shipping Looks Like
 
-## Notable Work
+✓ Live testnet agents executing in production  
+✓ On-chain reputation tracking across chains  
+✓ npm packages published and battle-tested  
+✓ MCP servers exposing 60+ tools to Claude  
+✓ CLI frameworks for agent onboarding  
+✓ Real-time dashboards with payment settlement  
+✓ Full encryption-to-settlement pipelines  
 
-### FlowGuard
-**Covenant-based treasury infrastructure on Bitcoin Cash**
+## Philosophy
 
-FlowGuard explores how far programmable treasuries can go on UTXO rails — enabling deterministic, onchain-controlled fund management without multisig trust assumptions.
+- **Agents are clients.** Build infrastructure they control, not intermediaries.
+- **Payment primitives matter.** x402 enables attestation-less execution; Solana escrow enables three-party settlement without multisig.
+- **Reputation is portable.** Credentials live on-chain across ecosystems.
+- **Deterministic execution.** No hidden logic; validators compute outcomes with Claude + proofs.
+- **Ship working systems.** Prototypes become infrastructure; infrastructure becomes platforms.
 
-Key areas:
-- Covenant-enforced vault logic
-- Streaming and treasury automation primitives
-- Organization-first onchain coordination
-- Developer-facing contract architecture
+## Engineering Priorities
 
-Positioning: experimental → institutional-grade treasury rails on BCH.
+1. **Cross-chain payment abstraction** — One API for multiple settlement layers
+2. **Agent autonomy and trust** — Reputation + escrow enable autonomous hiring
+3. **MCP as agent OS** — Standardized tool exposure via Model Context Protocol
+4. **Verifiable execution** — Every agent decision logged with proof hashes
+5. **Developer velocity** — CLI scaffolding, templates, full-stack examples
 
----
+## Work in Progress
 
-### ChainCircle
-Decentralized savings and coordination protocol inspired by ROSCAs, bringing culturally-native finance patterns onchain through smart contract automation.
-
-Focus:
-- Trustless savings cycles
-- Social coordination primitives
-- Multi-chain architecture experiments
-
----
-
-## Selected Projects
-
-| Project | Focus | Stack |
-|--------|------|------|
-| Attest | Onchain agreements and verifiable attestations | Multi-chain research |
-| Onchain Resume | Self-sovereign identity experiments | Solidity · IPFS |
-| Trade Compounder | Automation across DeFi protocols | TypeScript · Ethers |
-| BuilderHub | Builder coordination tooling | React · Node |
-
----
-
-## Engineering Focus
-
-I care about:
-- Deterministic onchain systems
-- Minimal trust assumptions
-- Clean protocol design
-- Composable primitives over apps
-- Shipping real implementations, not whitepapers
-
----
-
-## Current Direction
-
-Lately I’ve been focused on:
-- UTXO programmability and covenant design
-- Treasury infrastructure and DAO tooling
-- Bitcoin-adjacent ecosystems
-- Protocol architecture and audits
-
----
+- Advancing x402 adoption across EVM chains
+- Building reputation-gated escrow systems
+- Expanding MCP tool surface for agent specialization
+- Real-time payment indexing at scale
+- Privacy-preserving agent coordination (BlindMarkets intent model)
 
 ## Open Source
 
-I actively ship experiments, research prototypes, and infrastructure components in public.
+Shipping **working implementations**, not specs:
+- Production-ready SDKs with live testnet proofs
+- Full-stack agent templates (MCP servers, smart contracts, dashboards)
+- Monorepo patterns for multi-chain development
+- CLI toolkits for agent registration and deployment
 
-Most repos reflect:
-- Iterative protocol research
-- Hackathon-grade rapid execution
-- Systems-first thinking
-
----
-
-## GitHub
-
-<div align="center">
-
-![Winszn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=winsznx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
+Most repos represent **shipping iterations**: from hackathon rapid execution to protocol-grade infrastructure components.
 
 ---
 
-## Contact
-
-- Twitter/X: https://twitter.com/winsznx  
-- GitHub: https://github.com/winsznx  
-- Email: winsznx@gmail.com  
-
----
-
-<div align="center">
-
-**Building serious onchain infrastructure.**
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,100:1F1F1F&height=120&section=footer)
+**Links:** [GitHub](https://github.com/winsznx) · [X/Twitter](https://twitter.com/winsznx) · [Email](mailto:winsznx@gmail.com)
