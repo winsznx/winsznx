@@ -1,4 +1,4 @@
-Tim — backend systems engineer.
+Tim — blockchain protocol and backend systems engineer.
 
 Building production infrastructure for cross-chain payments, agent execution, and yield primitives. Nine hackathon placements. EE background. Mainnet on Solana, Ethereum, Starknet, Bitcoin Cash, Somnia, and Tempo.
 
