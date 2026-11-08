@@ -1,15 +1,22 @@
-Tim — blockchain protocol and backend systems engineer.
+# Tim Popoola
 
-Building production infrastructure for cross-chain payments, agent execution, and yield primitives. Nine hackathon placements. EE background. Mainnet on Solana, Ethereum, Starknet, Bitcoin Cash, Somnia, and Tempo.
+Systems engineer in Lagos. Electrical and Electronics Engineering at FUTA, expected 2027. I build privacy, payments, agent and edge-AI systems, end to end, and ship them to mainnet.
 
----
+20 hackathon prizes and placements in the last year, including 4 first places, 4 second places and 2 third places.
 
-**Lictor** · [github](https://github.com/winsznx/lictor) — autonomous trading desk on Somnia; plain-English mandates, on-chain agent consensus, live mainnet  
-**Remlo** · [remlo.xyz](https://remlo.xyz) — multi-chain payroll and escrow, Solana/Base, Tempo MPP + x402 + fiat rails  
-**ChainCircle** · [chaincircle.org](https://chaincircle.org) — savings circles across Ethereum, Solana, and Push Chain  
-**BlindMarkets** · [blindmarkets.xyz](https://blindmarkets.xyz) — intent execution, batched clearing, solver competition on Starknet  
-**FlowGuard** · [flowguard.cash](https://flowguard.cash) — streaming payments encoded into BCH UTXOs  
-**RouteDock** · [routedock.xyz](https://routedock.xyz) — TypeScript SDK for Stellar x402 + MPP behind one `client.pay()`  
+## Start here
 
-[winszn.xyz](https://winszn.xyz) · [@winsznx](https://x.com/winsznx) · [LinkedIn](https://linkedin.com/in/winszn)
+| If you need | Look at |
+| --- | --- |
+| Privacy and cryptography | [Kyrve](https://github.com/winsznx/kyrve), 1st in the iExec Privacy track. Confidential fixed-income liquidity on iExec Nox, settling on unmodified Morpho Midnight. [DarkOdds](https://github.com/winsznx/darkodds), the first iExec build, 3rd. |
+| Edge AI, local inference, P2P | [Custos](https://github.com/winsznx/custos), 1st in QVAC Hackathon I. Air-gapped invoice settlement with all inference on-device. |
+| Evaluation and data work | [Scrutineer](https://github.com/winsznx/scrutineer), 1st in Hack Apertus Track 1B. A five-language benchmark of Apertus against the official Swiss voting record, including the pre-registered claim that failed. |
+| Full-stack payments | [Remlo](https://github.com/winsznx/remlo), cross-border payroll on Tempo. Won the Fresh Code category at the Protocol Labs hackathon. |
+| Backend and agent payments | [Lend402](https://github.com/winsznx/lend402), live Stacks mainnet micro-loans for agents over x402, won the x402 track at BUIDL Battle 2. |
+| Developer tooling and DX | [RouteDock](https://github.com/winsznx/routedock), one `client.pay()` over Stellar x402 and MPP. [Artomik](https://github.com/winsznx/artomik), 3rd of 258 at Jupiter's bounty, scored mostly on a developer-experience report written from real API bugs. |
 
+## Latest
+
+[Reissue](https://github.com/winsznx/reissue) (Flip the Switch), [Payout Replay](https://github.com/winsznx/payout-replay) (Portaldot), [Setrya](https://github.com/winsznx/setrya) (private revenue share on Zcash), [Docket](https://github.com/winsznx/docket) (Serverpod).
+
+[@winsznx](https://x.com/winsznx) · [LinkedIn](https://linkedin.com/in/winszn)
