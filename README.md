@@ -1,4 +1,4 @@
-# Tim Popoola
+# Tim
 
 Systems engineer in Lagos. Electrical and Electronics Engineering at FUTA, expected 2027. I build privacy, payments, agent and edge-AI systems, end to end, and ship them to mainnet.
 
