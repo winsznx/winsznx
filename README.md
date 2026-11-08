@@ -15,8 +15,4 @@ Systems engineer in Lagos. Electrical and Electronics Engineering at FUTA, expec
 | Backend and agent payments | [Lend402](https://github.com/winsznx/lend402), live Stacks mainnet micro-loans for agents over x402, won the x402 track at BUIDL Battle 2. |
 | Developer tooling and DX | [RouteDock](https://github.com/winsznx/routedock), one `client.pay()` over Stellar x402 and MPP. [Artomik](https://github.com/winsznx/artomik), 3rd of 258 at Jupiter's bounty, scored mostly on a developer-experience report written from real API bugs. |
 
-## Latest
-
-[Reissue](https://github.com/winsznx/reissue) (Flip the Switch), [Payout Replay](https://github.com/winsznx/payout-replay) (Portaldot), [Setrya](https://github.com/winsznx/setrya) (private revenue share on Zcash), [Docket](https://github.com/winsznx/docket) (Serverpod).
-
 [@winsznx](https://x.com/winsznx) · [LinkedIn](https://linkedin.com/in/winszn)
